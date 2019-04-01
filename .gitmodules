@@ -1,0 +1,27 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/minigame-network/core.git
+[submodule "hub"]
+	path = hub
+	url = https://github.com/minigame-network/hub.git
+[submodule "waterwars"]
+	path = waterwars
+	url = https://github.com/minigame-network/waterwars.git
+[submodule "waterwars-shared"]
+	path = waterwars-shared
+	url = https://github.com/minigame-network/waterwars-shared.git
+[submodule "shared"]
+	path = shared
+	url = https://github.com/minigame-network/shared.git
+[submodule "splegg"]
+	path = splegg
+	url = https://github.com/minigame-network/splegg.git
+[submodule "mcparty"]
+	path = mcparty
+	url = https://github.com/minigame-network/mcparty.git
+[submodule "evolution"]
+	path = evolution
+	url = https://github.com/minigame-network/evolution.git
+[submodule "bungee"]
+	path = bungee
+	url = https://github.com/minigame-network/bungee.git
