@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bungee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evolution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mcparty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shared" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/splegg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/waterwars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/waterwars-shared" vcs="Git" />
+  </component>
+</project>

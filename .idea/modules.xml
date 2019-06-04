@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bungee/bungee.iml" filepath="$PROJECT_DIR$/bungee/bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evolution/evolution.iml" filepath="$PROJECT_DIR$/evolution/evolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hub/hub.iml" filepath="$PROJECT_DIR$/hub/hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcparty/mcparty.iml" filepath="$PROJECT_DIR$/mcparty/mcparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/minigame-network.iml" filepath="$PROJECT_DIR$/.idea/minigame-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splegg/splegg.iml" filepath="$PROJECT_DIR$/splegg/splegg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waterwars/waterwars.iml" filepath="$PROJECT_DIR$/waterwars/waterwars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waterwars-shared/waterwars-shared.iml" filepath="$PROJECT_DIR$/waterwars-shared/waterwars-shared.iml" />
+    </modules>
+  </component>
+</project>
